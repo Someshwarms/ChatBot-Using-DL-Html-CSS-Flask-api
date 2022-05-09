@@ -1,0 +1,21 @@
+1.For Model Creation:
+ Jupyter Notebook(IDE)
+ Pandas(For data preprocessing)
+ Numpy(For data preprocessing)
+ Matplotlib(Data Visualizataion)
+ Seaborn(Data Visualization)
+ Sklearn(For model development)
+ Pickle(For model creation and saving)
+ Keras or Tensorflow
+2.For Model Deployment(Backend):
+ Pycharm Community version(IDE)
+ Flask
+ Numpy
+ Sklearn
+ Model.pkl
+ jason
+ random
+3.Forntend:Basic Html,CSS.
+4.Dataset( Jason Format )for model training.
+ 
+ 
