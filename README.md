@@ -1,4 +1,5 @@
 # ChatBot-Using-DL-Html-CSS-Flask-api
 Result:
-![image](https://user-images.githubusercontent.com/93418572/167385071-6c075b17-c654-4a19-94b1-07dfa05cc87f.png)
-This the basic result after model deployment of chat bot currently i am facing some issue regarding CSS part once the issue get resolved i will update the result.
+![image](https://user-images.githubusercontent.com/93418572/167439753-4f57dfbe-566a-4ea7-a575-89004c0bbde7.png)
+![image](https://user-images.githubusercontent.com/93418572/167439774-4ee5113a-d445-40e7-ac29-fd04470c7754.png)
+
